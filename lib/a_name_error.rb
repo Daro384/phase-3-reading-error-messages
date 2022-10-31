@@ -1,3 +1,3 @@
-"hello world"
-
-hello_world
+5.times do
+    puts "hi"
+end
